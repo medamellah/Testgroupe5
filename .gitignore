@@ -1,0 +1,7 @@
+# ignorer les fichier text 
+Employee Salaries.txt
+
+# ignorer les logs
+
+*.log
+
